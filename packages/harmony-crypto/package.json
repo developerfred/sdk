@@ -1,6 +1,6 @@
 {
-  "name": "@harmony-js/crypto",
-  "version": "0.1.56",
+  "name": "@codingsh/harmony-crypto",
+  "version": "0.1.57",
   "description": "crypto libraries for harmony",
   "main": "dist/index.js",
   "node": "dist/index.js",
@@ -27,7 +27,8 @@
     "hmac-drbg": "^1.0.1",
     "js-sha3": "^0.8.0",
     "pbkdf2": "^3.0.17",
-    "scrypt-shim": "github:web3-js/scrypt-shim",
+    "scrypt-js": "^3.0.1",
+    "scrypt-shim": "^0.0.1-security",
     "uuid": "^3.3.2"
   },
   "gitHead": "56606e9365721729a490c27d6a294e0daf90fbdf"
