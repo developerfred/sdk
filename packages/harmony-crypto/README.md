@@ -5,7 +5,7 @@ This package provides a collection of apis related to address management, kestor
 ## Installation
 
 ```
-npm install @harmony-js/crypto
+npm install @codingsh/harmony-crypto
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ const {
   getAddressFromPrivateKey,
   encryptPhrase,
   decryptPhrase
-} = require('@harmony-js/crypto');
+} = require('@codingsh/harmony-crypto');
 const { isPrivateKey, isAddress, isPublicKey } = require('@harmony-js/utils');
 ```
 
